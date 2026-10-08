@@ -1,0 +1,1 @@
+<div class="container py-5 text-center"><h1>404</h1><p class="text-secondary">Halaman tidak ditemukan.</p><a href="<?= url('home') ?>" class="btn btn-primary">Back Home</a></div>
